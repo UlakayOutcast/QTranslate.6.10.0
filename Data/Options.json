@@ -1,0 +1,140 @@
+﻿{
+   "Application": {
+      "SaveHistoryPath": "",
+      "HistoryFilterFavorites": false,
+      "OptionsPageIndex": 3,
+      "HistoryFilter": ""
+   },
+   "Exceptions": {
+      "Disabled": [["", "SysListView32"], ["", "SysTreeView32"], ["", "ListBox"], ["", "ScrollBar"], ["", "ComboBox"], ["", "msctls_hotkey32"], ["", "ConsoleWindowClass"], ["mstsc.exe", ""]],
+      "Enabled": [],
+      "DisabledMode": true
+   },
+   "Contents": {
+      "EditBackTranslation": "Hi all",
+      "SaveOnExit": true,
+      "EditTranslation": "всем привет",
+      "EditSource": "hi there"
+   },
+   "Advanced": {
+      "EnableSlowerListening": true,
+      "OcrApiKey": "",
+      "LayoutIndicator": 0,
+      "EnableGuiTranslation": false,
+      "CopyAction": 0,
+      "SwitchMouseModeOnTrayClick": true,
+      "DefaultBrowserId": "",
+      "EnableMouseModeOnCtrl": false,
+      "RemoveLineBreaks": false,
+      "PreferredDomain": "com"
+   },
+   "Appearance": {
+      "EnableWindowStyle": false,
+      "PopupAutoSize": true,
+      "ColorFrame": 8023133,
+      "PopupPinWhenDragging": true,
+      "PopupWindowFrameThickness": 2,
+      "Transparency": 217,
+      "PopupIcons": 30,
+      "ColorText": 0,
+      "PopupAutoFocus": false,
+      "ThemeName": "",
+      "PopupAutoPos": true,
+      "PopupTimeout": 5,
+      "ColorBack": 15790320
+   },
+   "Internet": {
+      "Timeout": 10000
+   },
+   "HotKeys": {
+      "EnableHotKeys": true,
+      "HotKeyListenText": 581,
+      "HotKeyTranslateClipboardInMainWindow": 858,
+      "HotKeyReplaceSelection": 854,
+      "HotKeyHistory": 0,
+      "HotKeySwitchMouseMode": 0,
+      "HotKeyTextRecognition": 833,
+      "HotKeyDictionaryClipboard": 0,
+      "HotKeySpeechInput": 0,
+      "HotKeyConvertTextLayout": 0,
+      "HotKeyCopyTranslation": 0,
+      "HotKeyTranslateClipboardInPopupWindow": 856,
+      "HotKeyDictionary": 1617,
+      "HotKeyListenTranslation": 0,
+      "HotKeyTranslateClipboard": 835,
+      "HotKeyKeyboard": 0,
+      "HotKeyPopupWindow": 855,
+      "HotKeyMainWindow": 849
+   },
+   "OfflineDictionaries": [],
+   "Ocr": {
+      "OcrLanguage": 17,
+      "SaveImagePath": ""
+   },
+   "Update": {
+      "CheckForUpdates": false
+   },
+   "DisabledServices": [26],
+   "Proxy": {
+      "Password": "",
+      "Scheme": 0,
+      "Host": "",
+      "ProxyType": 0,
+      "Username": "",
+      "Port": 0
+   },
+   "DictionariesOrder": [25, 29, 82, 83, 84, 17, 26],
+   "DisabledLanguages": [],
+   "DisabledDictionaries": [],
+   "Dictionary": {
+      "ShowServicesPane": true,
+      "DictionaryZoom": 100,
+      "DictionaryExactSearch": true
+   },
+   "LanguagePairs": [[46, 17], [17, 46]],
+   "General": {
+      "InstantTranslation": true,
+      "LanguageDictionary": 46,
+      "LanguageKeyboard": 17,
+      "AutoCleanupOfTranslation": false,
+      "MouseMode": 0,
+      "WindowPopupPlacement": "",
+      "ClearHistoryOnExit": false,
+      "EnableHistory": true,
+      "WindowKeyboardPlacement": "",
+      "ShowServicesPane": true,
+      "MinimizeToTrayOnMinimize": false,
+      "WindowMainPlacement": "2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF90200003002000007050000DA030000",
+      "BackTranslation": true,
+      "WindowHistoryPlacement": "",
+      "WindowOptionsPlacement": "2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF330200000F020000BD04000096030000",
+      "ActiveServices": [1],
+      "UseSmartDetection": true,
+      "ShowMiddlePane": true,
+      "LanguageTo": 1,
+      "WindowDictionaryPlacement": "2C0000000000000001000000FFFFFFFFFFFFFFFFFFFFFFFFFFFFFFFF8B0100005601000075030000AA020000",
+      "ShowTopPane": true,
+      "MidSplitterPos": 101,
+      "LanguageFrom": 1,
+      "LocaleFoderName": "Russian",
+      "ReadPhonetically": false,
+      "FontName": "",
+      "MainWindowStartupAction": 0,
+      "ActiveDictionaryServices": [17],
+      "AlwaysDetectLanguage": false,
+      "MainWindowShowOnLoad": true,
+      "MinimizeToTrayOnClose": true,
+      "ExpandHistoryItems": false,
+      "BackTranslationSplitterPos": 105,
+      "MouseModeOn": false,
+      "SpellChecking": true,
+      "ClearOnDragDrop": true,
+      "TextSize": 9
+   },
+   "ServicesOrder": [1, 11, 31, 30, 26],
+   "AutoDetection": {
+      "LanguageFirst": 46,
+      "LanguageSecond": 17,
+      "LanguageSpeechRecognition": 46
+   }
+}
